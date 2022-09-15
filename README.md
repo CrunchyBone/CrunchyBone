@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CrunchyBone
+- 👀 I’m interested in game dev
+- 🌱 I’m currently learning rust!
+- 💞️ I’m looking to collaborate on games.
+- 📫 How to reach me crunchybone@proton.me
