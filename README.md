@@ -2,4 +2,4 @@
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning rust!
 - 💞️ I’m looking to collaborate on games.
-- 📫 How to reach me crunchybone@proton.me
+- 📫 How to reach me crunchybone@proton.me, it might take a little while for me to respond, I'm a pretty busy gal these days.
